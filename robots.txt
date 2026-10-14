@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://69yuncloud.cyou/sitemap.xml
